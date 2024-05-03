@@ -498,7 +498,6 @@ GameObject:
   - component: {fileID: 116678285}
   - component: {fileID: 116678287}
   - component: {fileID: 116678286}
-  - component: {fileID: 116678288}
   m_Layer: 0
   m_Name: Video Manager
   m_TagString: Untagged
@@ -566,25 +565,6 @@ MonoBehaviour:
   videoSlider: {fileID: 1179704600}
   playButton: {fileID: 1219206896}
   pauseButton: {fileID: 649798594}
---- !u!114 &116678288
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 116678283}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56bb2edd4d8b2a54483043c411993b2f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  objectsToToggle:
-  - {fileID: 783117661}
-  - {fileID: 1989762424}
-  - {fileID: 892917146}
-  - {fileID: 606521786}
-  - {fileID: 751429450}
-  videoPlayerComponent: {fileID: 7890223295712369737}
 --- !u!1 &125715156
 GameObject:
   m_ObjectHideFlags: 0
