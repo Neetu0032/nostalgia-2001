@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b1951f6033496499a7d5dbb54d0bd3, type: 3}
+  m_Name: VideoData
+  m_EditorClassIdentifier: 
+  videos:
+  - videoName: Masakali
+    videoPath: Assets/neetu/nostaligia 2011/Videos/masakalimp4
+  - videoName: Give me everything tonight
+    videoPath: Assets/neetu/nostaligia 2011/Videos/Give Me Everything.mp4
+  - videoName: Ik Junoon
+    videoPath: Assets/neetu/nostaligia 2011/Videos/Ik Junoon.mp4
+  - videoName: Bahara
+    videoPath: Assets/neetu/nostaligia 2010/Videos/Bahara.mp4
+  - videoName: Sadka
+    videoPath: Assets/neetu/nostaligia 2010/Videos/Sadka.mp4
+  - videoName: Sugar
+    videoPath: Assets/neetu/nostaligia 2010/Videos/Sugar.mp4
+  - videoName: Te Amo
+    videoPath: Assets/neetu/nostaligia 2012/Videos/Te Amo.mp4
+  - videoName: Tum hi ho
+    videoPath: Assets/neetu/nostaligia 2012/Videos/Tum hi ho.mp4
+  - videoName: What makes you beautiful
+    videoPath: Assets/neetu/nostaligia 2012/Videos/What makes you beautiful.mp4
